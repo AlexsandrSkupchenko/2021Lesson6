@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Заметка 1</item>
+        <item>Заметка 2</item>
+        <item>Заметка 3</item>
+        <item>Заметка 4</item>
+        <item>Заметка 5</item>
+    </string-array>
+
+    <integer-array name="indexNote">
+        <item>@string/noteOne</item>
+        <item>@string/noteTwo</item>
+        <item>@string/noteThree</item>
+    </integer-array>
+
+    <integer-array name="dateNote">
+        <item>@string/dateOne</item>
+        <item>@string/dateTwo</item>
+        <item>@string/dateThree</item>
+    </integer-array>
+
+
+</resources>

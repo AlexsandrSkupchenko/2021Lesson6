@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">M3</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+
+    <string name="noteOne">“Прозрачный водопад”… \nУпала в светлую волну \nСосновая игла.</string>
+    <string name="noteTwo">Ясная луна. \nУ пруда всю ночь напролет  \nброжу, любуясь…</string>
+    <string name="noteThree">Яркий лунный свет! \nНа циновку тень свою \nБросила сосна.</string>
+
+    <string name="dateOne">время 1</string>
+    <string name="dateTwo">время 2</string>
+    <string name="dateThree">время 3</string>
+
+</resources>
